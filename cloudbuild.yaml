@@ -1,5 +1,5 @@
 steps:
   - name: busybox
-    args: ["ok owah crazy"]
+    args: ["ok owah crazyss"]
   - name: 'bash'
     args: ['echo']
