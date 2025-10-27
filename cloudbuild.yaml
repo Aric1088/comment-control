@@ -1,5 +1,8 @@
 steps:
   - name: busybox
-    args: ["ok owah crazy"]
+    args: ["ok h crazy"]
   - name: 'bash'
     args: ['echo']
+options:
+  requested_verify_option: VERIFIED
+  defaultLogsBucketBehavior: REGIONAL_USER_OWNED_BUCKET
